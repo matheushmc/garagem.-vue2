@@ -1,11 +1,11 @@
 <script setup>
-// import "@passageidentity/passage-elements/passage-auth";
+import "@passageidentity/passage-elements/passage-auth";
 </script>
 
 <template>
   <h1>Login</h1>
   <div class="authContainer">
-    <passage-auth app-id="GKj1efF61W4xT1JFyDuKPfsK"></passage-auth>
+    <passage-auth app-id="FzFI7VaQUXP8HQNEFKxcrehM"></passage-auth>
   </div>
 </template>
 
